@@ -12,4 +12,4 @@ hello world htj
 hello world htj
 hello world htj
 hello world htj 我是master
-hello world htj 我是热补丁
+hello world htj 
